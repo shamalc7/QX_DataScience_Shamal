@@ -1,0 +1,187 @@
+﻿8/17/19, 15:10 - Messages to this group are now secured with end-to-end encryption. Tap for more info.
+8/2/19, 18:02 - +91 75062 52588 created group "Qxp Data Science 15 june "
+8/17/19, 15:10 - +91 75062 52588 added you
+8/18/19, 00:44 - +91 88981 81778: This is to remind that Tomorrow's class is *@1 PM*
+8/18/19, 01:01 - Ani: 👍🏻
+8/18/19, 12:31 - +91 88981 81778: http://www.slideshare.net/Simplilearn/logistic-regression-logistic-regression-in-python-machine-learning-algorithms-simplilearn?from_m_app=android
+8/18/19, 12:35 - +91 88981 81778: http://www.slideshare.net/RajendraAkerkar/decision-tree-9146388?from_m_app=android
+8/18/19, 12:37 - +91 88981 81778: http://www.slideshare.net/tilanigunawardena/evaluation-and-credibilitypart-2?from_m_app=android
+8/18/19, 12:38 - +91 88981 81778: http://www.slideshare.net/m80m07/random-forest?from_m_app=android
+8/18/19, 12:39 - +91 88981 81778: http://www.slideshare.net/ShangxuanZhang/xgboost?from_m_app=android
+8/18/19, 13:49 - Manju: <Media omitted>
+8/18/19, 19:40 - Ani: https://www.datacamp.com/community/tutorials/decision-tree-classification-python
+8/18/19, 20:45 - +91 88981 81778: Nice @918976739853
+8/18/19, 20:51 - Ani: 👍🏻
+8/23/19, 00:46 - +91 88981 81778: Check out this Meetup with Mumbai Big Data Analytics Meetup http://meetu.ps/e/H3bqN/LpNvn/d
+8/23/19, 00:49 - +91 88981 81778: Check out this Meetup with DataGiri http://meetu.ps/e/H6Dct/LpNvn/d
+8/23/19, 00:51 - +91 88981 81778: Check out this Meetup with Love Data Science - Live Data Science http://meetu.ps/e/H2MQ3/LpNvn/d
+8/24/19, 00:07 - +91 88981 81778: Tomorrow's lecture timing 3 PM
+8/24/19, 13:31 - Ani: Not be able to come today... having fever
+8/24/19, 13:38 - +91 88981 81778: Take care
+8/24/19, 22:12 - Nikhil ML: What is tomorrow timing ?
+8/24/19, 23:10 - +91 88981 81778: 1 PM
+8/25/19, 00:14 - Nikhil ML: https://adityashrm21.github.io/Decision-Trees/
+8/25/19, 13:33 - Ani: Sorry...due to bad health won't be able to come to company today even
+8/25/19, 13:42 - +91 88981 81778: Take care
+8/25/19, 21:15 - Ani: This message was deleted
+8/25/19, 21:16 - Ani: This message was deleted
+8/25/19, 22:39 - Manju: <Media omitted>
+8/25/19, 22:39 - Manju: <Media omitted>
+8/25/19, 22:39 - Manju: <Media omitted>
+8/25/19, 22:39 - Manju: <Media omitted>
+8/25/19, 22:39 - Manju: <Media omitted>
+8/25/19, 22:40 - Manju: 👆🏻 Rough notes
+8/25/19, 22:40 - Sahil D I: Thanx
+8/25/19, 22:41 - Manju: <Media omitted>
+8/25/19, 22:41 - Manju: <Media omitted>
+8/25/19, 22:41 - Manju: <Media omitted>
+8/25/19, 22:41 - Manju: 👆🏻 notes
+8/25/19, 22:44 - +91 88981 81778: U hv not changed... Bagging (variance) & Boosting (Bias)
+8/25/19, 22:44 - +91 88981 81778: Plz change
+8/26/19, 08:22 - Manju: Ok
+8/26/19, 11:18 - +91 88981 81778: https://timesofindia.indiatimes.com/
+8/26/19, 11:19 - +91 88981 81778: Read this recent case study that uses visual analytics & predictive analytics to predict Recession.
+8/28/19, 23:28 - Manju: <Media omitted>
+8/29/19, 19:39 - Manju: <Media omitted>
+8/30/19, 23:09 - Manju: What is tomorrow's timing for class?
+8/31/19, 09:08 - +91 88981 81778: Class @ 3 PM
+8/31/19, 15:37 - +91 88981 81778: Running late, had an errand to take care. Will be there by 4 pm
+9/2/19, 21:25 - +91 88981 81778: https://github.com/Donifide/kNN
+
+Use of kNN sklearn component for anomaly detection and cross-validation between 32 classes.
+9/2/19, 21:27 - +91 88981 81778: https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
+9/2/19, 21:30 - +91 88981 81778: https://github.com/anoopbhatn/Sentiment-Analysis-using-Naive-Bayes-Classifier
+9/2/19, 21:32 - +91 88981 81778: Perform all this programs, push to your respective git repos under unit 5
+9/2/19, 21:32 - +91 88981 81778: By thursday
+9/2/19, 21:33 - +91 88981 81778: If any doubts let me know
+9/4/19, 08:35 - Manju: <Media omitted>
+9/4/19, 08:36 - Manju: Anybody getting such error while importing cross_validation package
+9/4/19, 08:36 - Manju: In this example
+9/4/19, 08:39 - +91 88981 81778: *from sklearn.model_selection import train_test_split*
+
+Do this
+9/5/19, 12:15 - +91 88981 81778: https://www.geeksforgeeks.org/5-mistakes-that-every-engineering-student-must-avoid/
+9/6/19, 02:35 - +91 88981 81778: “Chapter 2 : SVM (Support Vector Machine) — Theory” by Savan Patel https://link.medium.com/nA2klHRdKZ
+9/6/19, 02:35 - +91 88981 81778: “Chapter 2 : SVM (Support Vector Machine) — Coding” by Savan Patel https://link.medium.com/YkmPpdVdKZ
+9/6/19, 02:40 - +91 88981 81778: “How Machines Make Sense of Big Data: an Introduction to Clustering Algorithms” by Peter Gleeson https://link.medium.com/CySChjeeKZ
+9/6/19, 02:41 - +91 88981 81778: “K-Means in Real Life: Clustering Workout Sessions” by Carolina Bento https://link.medium.com/tPDMDLjeKZ
+9/6/19, 02:42 - +91 88981 81778: “An Introduction to Clustering Algorithms in Python” by Jake Huneycutt https://link.medium.com/QrIN3FmeKZ
+9/6/19, 02:43 - +91 88981 81778: “Three Popular Clustering Methods and When to Use Each” by ODSC - Open Data Science https://link.medium.com/SWbhU4reKZ
+9/6/19, 02:46 - +91 88981 81778: “Case Study : Customer Segmentation of E-Commerce data using Clustering Algorithms : Step by Step…” by Naveen Kumar K https://link.medium.com/nzP5beGeKZ
+9/6/19, 13:20 - Nikhil ML: Use this steps to push your repo to git
+9/6/19, 13:21 - Nikhil ML: <Media omitted>
+9/6/19, 13:21 - Nikhil ML: <Media omitted>
+9/6/19, 13:21 - Nikhil ML: <Media omitted>
+9/6/19, 14:21 - +91 75062 52588: Hi,
+ Its ritika here ,kindly   pay you remaining fees  by your next lecture, who have not paid .
+9/6/19, 19:18 - +91 88981 81778: Tomorrow's lecture 2 PM
+9/7/19, 14:38 - Ani: https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
+9/8/19, 15:54 - Nikhil ML: https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
+9/9/19, 22:29 - +91 88981 81778: This is to remind None of yours git repos are shared with me,
+Kindly share asap
+9/9/19, 22:29 - +91 88981 81778: Thanks
+9/9/19, 22:41 - Nikhil ML: https://github.com/nikhil1391/QX_DataScience_Nikhil.git
+9/9/19, 22:43 - +91 88981 81778: Try to Organize in a better way
+9/9/19, 22:43 - Nikhil ML: ohk sir
+9/9/19, 23:04 - Manju: https://github.com/dumbaremanjusha08/manjusha.git
+9/9/19, 23:06 - +91 88981 81778: Your git is "private", change it to public... Readme file is missing.
+9/10/19, 00:14 - Manju: Https://github.com/dumbaremanjusha08/MyRepository.git
+9/10/19, 00:15 - Manju: I have created above repository...files were not sorted properly into previous repo
+9/10/19, 00:15 - +91 88981 81778: Rename your git repo to "QX_DataScience_Manjusha"
+9/10/19, 00:15 - Manju: Ok
+9/10/19, 00:17 - Manju: None of the folder pushed onto repo contain .git file still , those folders r not getting opened in repo
+9/10/19, 00:18 - +91 88981 81778: Ok, lemme c
+9/10/19, 00:19 - +91 88981 81778: Xgboost and linear regression folders look fine
+9/10/19, 00:19 - +91 88981 81778: Must be a problm with other folders
+9/10/19, 00:19 - Manju: Yes
+9/10/19, 00:19 - Manju: I checked all other folder
+9/10/19, 00:20 - Manju: Those r similar with xgboost nd linear regression
+9/10/19, 00:21 - +91 88981 81778: Ok
+9/10/19, 00:21 - +91 88981 81778: Will check
+9/11/19, 00:34 - Sahil D I: https://github.com/SahilDI/Qxp_DataScience_Sahil.git
+9/13/19, 19:20 - +91 88981 81778: Tomorrow class at 1 PM
+9/13/19, 23:41 - Sahil D I: https://github.com/SahilDI/Qxp_DataScience_Sahil.git
+9/14/19, 12:54 - Ani: https://github.com/asheth12/Qxp_DataScience_Anirudha.git
+9/14/19, 13:33 - Ani: https://datafai.com/2017/11/04/kmeans-clustering-with-python/
+9/14/19, 15:30 - Manju: https://intellipaat.com/blog/data-science-apriori-algorithm/
+9/14/19, 15:36 - Sahil D I: https://github.com/asaini/Apriori.git
+9/14/19, 16:00 - Ani: http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/
+9/14/19, 16:40 - Manju: https://github.com/dumbaremanjusha08/QX_DataScience_Manjusha.git
+9/14/19, 17:07 - Manju: <Media omitted>
+9/14/19, 23:23 - Manju: https://medium.com/@pcm1312/implementing-fp-growth-in-python-170f3dc64d78
+9/15/19, 13:08 - Manju: Panvel - thane trains are not running today
+9/15/19, 13:08 - Manju: So I will not be able to come
+9/15/19, 13:08 - Manju: Please share todays notes
+9/15/19, 14:49 - +91 75062 52588 removed +91 88065 58563
+9/15/19, 14:50 - +91 75062 52588 removed +91 79720 83675
+9/15/19, 17:46 - Sahil D I: https://github.com/kangkang-li/Face-recognition-by-AlexNet-VGG16-LDA-PCA.git
+9/15/19, 17:47 - Nikhil ML: <Media omitted>
+9/15/19, 17:47 - Nikhil ML: <Media omitted>
+9/15/19, 17:47 - Nikhil ML: <Media omitted>
+9/15/19, 17:47 - Nikhil ML: <Media omitted>
+9/15/19, 17:47 - Nikhil ML: <Media omitted>
+9/15/19, 17:47 - Nikhil ML: <Media omitted>
+9/15/19, 17:47 - Nikhil ML: <Media omitted>
+9/15/19, 17:47 - Nikhil ML: <Media omitted>
+9/15/19, 17:47 - Nikhil ML: <Media omitted>
+9/15/19, 17:47 - Nikhil ML: <Media omitted>
+9/15/19, 17:47 - Nikhil ML: <Media omitted>
+9/15/19, 17:47 - Nikhil ML: <Media omitted>
+9/15/19, 17:47 - Nikhil ML: <Media omitted>
+9/15/19, 17:53 - Sahil D I: https://github.com/rajathkmp/FaceRecog.git
+9/15/19, 18:03 - Sahil D I: https://github.com/mohamedmahmoud97/FaceRecognition.git
+9/15/19, 18:06 - Nikhil ML: This message was deleted
+9/15/19, 18:11 - Nikhil ML: <Media omitted>
+9/15/19, 21:47 - Manju: Thank you
+9/17/19, 21:18 - Manju: <Media omitted>
+9/17/19, 21:18 - Manju: <Media omitted>
+9/17/19, 21:19 - Manju: Mathematics steps in ANN
+9/17/19, 21:19 - Manju: *mathematical
+9/17/19, 21:20 - Manju: X: i/p features
+9/17/19, 21:20 - Manju: Y: known class labels
+9/17/19, 21:20 - Manju: Wh: weights of hidden layers
+9/17/19, 21:21 - Manju: bh: bias
+9/18/19, 00:47 - +91 88981 81778: https://zeenews.india.com/technology/new-algorithm-to-identify-cyber-bullies-on-twitter-2234978.html
+9/19/19, 06:02 - +91 81692 57641 left
+9/21/19, 11:09 - Sahil D I: Today's session?
+9/21/19, 11:09 - Manju: Sir what is todays time
+9/21/19, 11:16 - +91 88981 81778: 2 pm
+9/21/19, 23:50 - Ani: Tomorrow what time?
+9/22/19, 01:34 - +91 88981 81778: No lecture on Sunday
+9/28/19, 00:02 - Sahil D I: Tomorrow what time???
+9/28/19, 01:01 - +91 88981 81778: 1:30 pm
+9/28/19, 10:18 - +91 88981 81778: https://www.theregister.co.uk/2019/09/27/youtube_ai_star/
+9/28/19, 18:17 - Manju: https://github.com/FatmaKursun/time-series-forecasting.git
+9/28/19, 18:17 - Manju: https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/?
+9/29/19, 13:36 - +91 88981 81778: Will be in by 2:30
+9/29/19, 13:37 - +91 88981 81778: Plz complete time series using ann by that time...
+And read the topics asked yesterday..
+9/29/19, 16:32 - Nikhil ML: https://github.com/ivanarielcaceres/timeseries-lstm-keras.git
+9/29/19, 17:24 - Ani: https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk
+9/29/19, 17:30 - Nikhil ML: <Media omitted>
+9/29/19, 17:30 - Nikhil ML: <Media omitted>
+9/29/19, 17:30 - Nikhil ML: <Media omitted>
+9/30/19, 17:36 - +91 88981 81778: https://www.geeksforgeeks.org/top-machine-learning-applications-in-2019/
+10/3/19, 01:56 - +91 88981 81778: https://venturebeat.com/2019/09/30/google-launches-tensorflow-2-0-with-tighter-keras-integration/
+10/6/19, 07:56 - +91 88981 81778: <Media omitted>
+10/7/19, 10:37 - +91 88981 81778: https://analyticsindiamag.com/not-everyone-can-become-a-data-scientist-says-prof-charanpreet-singh-of-praxis-business-school/
+10/7/19, 23:51 - Manju: This message was deleted
+10/7/19, 23:52 - Sahil D I: ??
+10/7/19, 23:57 - Manju: <Media omitted>
+10/7/19, 23:57 - Manju: In word cloud generator
+10/8/19, 00:09 - Sahil D I: K
+10/8/19, 00:48 - +91 88981 81778: 👍🏻
+10/8/19, 01:09 - +91 88981 81778: https://www.businessinsider.in/careers/news/ai-skills-needed-to-get-best-jobs-in-the-industry-according-to-the-data-science-skills-study-2019/articleshow/71473858.cms
+10/8/19, 01:22 - +91 88981 81778: https://m.economictimes.com/jobs/artificial-intelligence-machine-learning-spawn-new-jobs-in-ecommerce/articleshow/71480985.cms
+10/8/19, 01:27 - +91 88981 81778: https://www.techradar.com/in/news/how-deep-learning-could-revolutionize-broadcasting
+10/8/19, 01:28 - +91 88981 81778: https://phys.org/news/2019-10-team-deep-sun-ultraviolet-emission.html
+10/8/19, 19:56 - +91 88981 81778: *Perspective & Mathematics* by Roger Antonson
+
+https://youtu.be/ZQElzjCsl9o
+10/8/19, 22:11 - Manju: https://github.com/kadriyedogan/employee-churn-prediction
+10/8/19, 22:12 - Manju: sir, in above case study they used liabrary named h2o
+10/8/19, 22:12 - Manju: so, should I take this example for case study of employee churn prediction
+10/8/19, 22:34 - +91 88981 81778: H2O is just used to load dataset...
+So yes you can use it.
+10/8/19, 22:56 - Manju: Ok
+10/9/19, 12:46 - +91 88981 81778: https://analyticsindiamag.com/check-out-these-ai-ml-internships-in-bangalore-chennai-hyderabad-mumbai-pune/
